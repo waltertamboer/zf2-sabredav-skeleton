@@ -3,5 +3,8 @@
         "zendframework/zendframework": "*",
         "waltertamboer/sabredav-module": "dev-master",
         "doctrine/doctrine-orm-module": "^0.9.1"
+    },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
     }
 }
